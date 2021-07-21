@@ -1,0 +1,3 @@
+C:/Users/Ivan Junco/CLionProjects/SOLUCIONESRECURSIVA/cmake-build-debug/CMakeFiles/SOLUCIONESRECURSIVA.dir
+C:/Users/Ivan Junco/CLionProjects/SOLUCIONESRECURSIVA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ivan Junco/CLionProjects/SOLUCIONESRECURSIVA/cmake-build-debug/CMakeFiles/rebuild_cache.dir

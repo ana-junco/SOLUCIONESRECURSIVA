@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\SOLUCIONESRECURSIVA.dir/objects.a
+C:\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\SOLUCIONESRECURSIVA.dir/objects.a @CMakeFiles\SOLUCIONESRECURSIVA.dir\objects1.rsp
+C:\Mingw64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\SOLUCIONESRECURSIVA.dir/objects.a -Wl,--no-whole-archive -o SOLUCIONESRECURSIVA.exe -Wl,--out-implib,libSOLUCIONESRECURSIVA.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SOLUCIONESRECURSIVA.dir\linklibs.rsp
